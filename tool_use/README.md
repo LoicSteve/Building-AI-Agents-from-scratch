@@ -1,10 +1,7 @@
 This is the first part of the "Building Agents from scratch" series where we will implement tool use for an AI Agent from scratch without using any LLM orchestration frameworks. In this example, we'll build a currency conversion tool and configure our agent to intelligently determine when currency conversion is needed and use the tool appropriately.
 
-<p align="center">
-<img src="../../assets/tool_use.png" width="50%" alt="Tool Use Diagram">
-</p>
+![alt text](image.png)
 
-You can find the detailed walkthrough of this project in my [Newsletter](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part).
 
 
 ## Installing dependencies
