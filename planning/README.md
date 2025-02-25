@@ -1,13 +1,13 @@
 # Planning Strategies
 
-/Users/loicsteve/Desktop/Building-AI-Agents-from-scratch/planning/Screenshot 2025-02-25 at 16.30.59.png
+![/Users/loicsteve/Desktop/Building-AI-Agents-from-scratch/planning/Screenshot 2025-02-25 at 16.30.59.png](<Screenshot 2025-02-25 at 16.30.59.png>)
 
 
 Implementation of various planning strategies from scratch for AI agents.
 
 ## Implementations
 
-- [Reflection](reflection/)
+- [Reflection]
 
 Implement a simple type of Working Memory.
 
